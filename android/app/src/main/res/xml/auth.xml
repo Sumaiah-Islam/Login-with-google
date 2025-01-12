@@ -1,5 +1,5 @@
 <resources>
-    <string name="default_web_client_id">206055521982-mpgkd8neonad5kbn0d5l2pr5kusoqvfb.apps.googleusercontent.com</string>
+    <string name="default_web_client_id">YOUR_WEB_CLIENT_ID</string>
 </resources>
 
 
