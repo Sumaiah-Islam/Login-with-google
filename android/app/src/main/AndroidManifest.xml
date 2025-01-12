@@ -22,8 +22,8 @@
               />
 
             <meta-data
-                android:name="com.google.android.gms.appstate.APP_ID"
-                android:value="206055521982" />
+                  android:name="com.google.android.gms.appstate.APP_ID"
+                  android:value="your_app_id" /> <!-- your app id from google cloud console --> 
             <meta-data
                 android:name="com.google.android.gms.common.api.GoogleSignInOptionsExtension"
                 android:resource="@xml/auth" />
