@@ -1,4 +1,4 @@
-Describe the full process https://medium.com/@sumaiah.mitu/google-sign-in-in-flutter-using-bloc-and-google-cloud-console-16a3f9311d35
+https://medium.com/@sumaiah.mitu/google-sign-in-in-flutter-using-bloc-and-google-cloud-console-16a3f9311d35
 # google_login
 
 A new Flutter project.
